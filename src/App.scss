@@ -1,0 +1,28 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+*{
+    font-family: 'Helvetica';
+}
+
+.toast-body{
+    font-size: 18px !important;
+    font-weight: 500 !important;
+}
+
+.accordion-item{
+    background-color: #f9f9f9 !important;
+}
+
+.accordion-body{
+    font-size: 18px !important;
+}
+.tasto{
+    width: 100% !important;
+    position: absolute !important;
+    bottom: 0 !important;
+}
+
+.accordion-button{
+    font-size: 24px !important;
+    font-weight: 700 !important;
+}
